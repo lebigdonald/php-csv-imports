@@ -4,7 +4,9 @@
 bower_components
 node_modules
 vendor/
+.idea/
 
 # Generated files
 .psci
 output
+.idea/modules.xml
